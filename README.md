@@ -1,2 +1,1 @@
-# MLP
-Machine learning with python basics
+basic machine learning libraries
